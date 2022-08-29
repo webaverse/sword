@@ -14,7 +14,11 @@
     {
       "key": "use",
       "value": {
-        "animation": "combo",
+        "animationCombo": [
+          "combo0",
+          "combo1",
+          "combo2"
+        ],
         "behavior": "sword",
         "boneAttachment": "leftHand",
         "position": [-0.07, -0.03, 0],
